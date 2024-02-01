@@ -1,0 +1,10 @@
+C:\Users\11v2_1\Desktop\1 срок\11.01.Drawing\11.01.Drawing\bin\Debug\11.01.Drawing.exe.config
+C:\Users\11v2_1\Desktop\1 срок\11.01.Drawing\11.01.Drawing\bin\Debug\11.01.Drawing.exe
+C:\Users\11v2_1\Desktop\1 срок\11.01.Drawing\11.01.Drawing\bin\Debug\11.01.Drawing.pdb
+C:\Users\11v2_1\Desktop\1 срок\11.01.Drawing\11.01.Drawing\obj\Debug\11.01.Drawing.csproj.AssemblyReference.cache
+C:\Users\11v2_1\Desktop\1 срок\11.01.Drawing\11.01.Drawing\obj\Debug\_11._01.Drawing.Form1.resources
+C:\Users\11v2_1\Desktop\1 срок\11.01.Drawing\11.01.Drawing\obj\Debug\_11._01.Drawing.Properties.Resources.resources
+C:\Users\11v2_1\Desktop\1 срок\11.01.Drawing\11.01.Drawing\obj\Debug\11.01.Drawing.csproj.GenerateResource.cache
+C:\Users\11v2_1\Desktop\1 срок\11.01.Drawing\11.01.Drawing\obj\Debug\11.01.Drawing.csproj.CoreCompileInputs.cache
+C:\Users\11v2_1\Desktop\1 срок\11.01.Drawing\11.01.Drawing\obj\Debug\11.01.Drawing.exe
+C:\Users\11v2_1\Desktop\1 срок\11.01.Drawing\11.01.Drawing\obj\Debug\11.01.Drawing.pdb

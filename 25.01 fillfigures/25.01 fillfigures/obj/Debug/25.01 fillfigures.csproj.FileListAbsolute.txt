@@ -1,0 +1,20 @@
+C:\Users\11v2_1\Desktop\1 срок\25.01 fillfigures\25.01 fillfigures\bin\Debug\25.01 fillfigures.exe.config
+C:\Users\11v2_1\Desktop\1 срок\25.01 fillfigures\25.01 fillfigures\bin\Debug\25.01 fillfigures.exe
+C:\Users\11v2_1\Desktop\1 срок\25.01 fillfigures\25.01 fillfigures\bin\Debug\25.01 fillfigures.pdb
+C:\Users\11v2_1\Desktop\1 срок\25.01 fillfigures\25.01 fillfigures\obj\Debug\25.01 fillfigures.csproj.AssemblyReference.cache
+C:\Users\11v2_1\Desktop\1 срок\25.01 fillfigures\25.01 fillfigures\obj\Debug\_25._01_fillfigures.Form1.resources
+C:\Users\11v2_1\Desktop\1 срок\25.01 fillfigures\25.01 fillfigures\obj\Debug\_25._01_fillfigures.Properties.Resources.resources
+C:\Users\11v2_1\Desktop\1 срок\25.01 fillfigures\25.01 fillfigures\obj\Debug\25.01 fillfigures.csproj.GenerateResource.cache
+C:\Users\11v2_1\Desktop\1 срок\25.01 fillfigures\25.01 fillfigures\obj\Debug\25.01 fillfigures.csproj.CoreCompileInputs.cache
+C:\Users\11v2_1\Desktop\1 срок\25.01 fillfigures\25.01 fillfigures\obj\Debug\25.01 fillfigures.exe
+C:\Users\11v2_1\Desktop\1 срок\25.01 fillfigures\25.01 fillfigures\obj\Debug\25.01 fillfigures.pdb
+C:\Users\11v2_1\OneDrive - ППМГ Никола Обрешков - Казанлък\Училище\11 клас\Информатика\Drawing in C#\25.01 fillfigures\25.01 fillfigures\bin\Debug\25.01 fillfigures.exe.config
+C:\Users\11v2_1\OneDrive - ППМГ Никола Обрешков - Казанлък\Училище\11 клас\Информатика\Drawing in C#\25.01 fillfigures\25.01 fillfigures\bin\Debug\25.01 fillfigures.exe
+C:\Users\11v2_1\OneDrive - ППМГ Никола Обрешков - Казанлък\Училище\11 клас\Информатика\Drawing in C#\25.01 fillfigures\25.01 fillfigures\bin\Debug\25.01 fillfigures.pdb
+C:\Users\11v2_1\OneDrive - ППМГ Никола Обрешков - Казанлък\Училище\11 клас\Информатика\Drawing in C#\25.01 fillfigures\25.01 fillfigures\obj\Debug\25.01 fillfigures.csproj.AssemblyReference.cache
+C:\Users\11v2_1\OneDrive - ППМГ Никола Обрешков - Казанлък\Училище\11 клас\Информатика\Drawing in C#\25.01 fillfigures\25.01 fillfigures\obj\Debug\_25._01_fillfigures.Form1.resources
+C:\Users\11v2_1\OneDrive - ППМГ Никола Обрешков - Казанлък\Училище\11 клас\Информатика\Drawing in C#\25.01 fillfigures\25.01 fillfigures\obj\Debug\_25._01_fillfigures.Properties.Resources.resources
+C:\Users\11v2_1\OneDrive - ППМГ Никола Обрешков - Казанлък\Училище\11 клас\Информатика\Drawing in C#\25.01 fillfigures\25.01 fillfigures\obj\Debug\25.01 fillfigures.csproj.GenerateResource.cache
+C:\Users\11v2_1\OneDrive - ППМГ Никола Обрешков - Казанлък\Училище\11 клас\Информатика\Drawing in C#\25.01 fillfigures\25.01 fillfigures\obj\Debug\25.01 fillfigures.csproj.CoreCompileInputs.cache
+C:\Users\11v2_1\OneDrive - ППМГ Никола Обрешков - Казанлък\Училище\11 клас\Информатика\Drawing in C#\25.01 fillfigures\25.01 fillfigures\obj\Debug\25.01 fillfigures.exe
+C:\Users\11v2_1\OneDrive - ППМГ Никола Обрешков - Казанлък\Училище\11 клас\Информатика\Drawing in C#\25.01 fillfigures\25.01 fillfigures\obj\Debug\25.01 fillfigures.pdb

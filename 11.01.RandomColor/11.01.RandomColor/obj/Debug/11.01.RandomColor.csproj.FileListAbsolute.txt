@@ -1,0 +1,10 @@
+C:\Users\11v2_1\Desktop\1 срок\11.01.RandomColor\11.01.RandomColor\bin\Debug\11.01.RandomColor.exe.config
+C:\Users\11v2_1\Desktop\1 срок\11.01.RandomColor\11.01.RandomColor\bin\Debug\11.01.RandomColor.exe
+C:\Users\11v2_1\Desktop\1 срок\11.01.RandomColor\11.01.RandomColor\bin\Debug\11.01.RandomColor.pdb
+C:\Users\11v2_1\Desktop\1 срок\11.01.RandomColor\11.01.RandomColor\obj\Debug\11.01.RandomColor.csproj.AssemblyReference.cache
+C:\Users\11v2_1\Desktop\1 срок\11.01.RandomColor\11.01.RandomColor\obj\Debug\_11._01.RandomColor.Form1.resources
+C:\Users\11v2_1\Desktop\1 срок\11.01.RandomColor\11.01.RandomColor\obj\Debug\_11._01.RandomColor.Properties.Resources.resources
+C:\Users\11v2_1\Desktop\1 срок\11.01.RandomColor\11.01.RandomColor\obj\Debug\11.01.RandomColor.csproj.GenerateResource.cache
+C:\Users\11v2_1\Desktop\1 срок\11.01.RandomColor\11.01.RandomColor\obj\Debug\11.01.RandomColor.csproj.CoreCompileInputs.cache
+C:\Users\11v2_1\Desktop\1 срок\11.01.RandomColor\11.01.RandomColor\obj\Debug\11.01.RandomColor.exe
+C:\Users\11v2_1\Desktop\1 срок\11.01.RandomColor\11.01.RandomColor\obj\Debug\11.01.RandomColor.pdb
